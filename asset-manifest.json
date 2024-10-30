@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.8ea4e4f9.css",
+    "main.js": "./static/js/main.7c635d90.js",
+    "static/js/453.4deee690.chunk.js": "./static/js/453.4deee690.chunk.js",
+    "static/media/skin-course-anime.mov": "./static/media/skin-course-anime.c6ea6c7067755cc0da2d.mov",
+    "index.html": "./index.html",
+    "main.8ea4e4f9.css.map": "./static/css/main.8ea4e4f9.css.map",
+    "main.7c635d90.js.map": "./static/js/main.7c635d90.js.map",
+    "453.4deee690.chunk.js.map": "./static/js/453.4deee690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea4e4f9.css",
+    "static/js/main.7c635d90.js"
+  ]
+}
